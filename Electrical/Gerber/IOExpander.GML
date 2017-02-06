@@ -1,0 +1,21 @@
+G04 DipTrace 3.0.0.2*
+G04 IOExpander.GML*
+%MOMM*%
+G04 #@! TF.FileFunction,Drawing,Board polygon*
+G04 #@! TF.Part,Single*
+%FSLAX35Y35*%
+G04*
+G71*
+G90*
+G75*
+G01*
+G04 BoardPoly*
+%LPD*%
+G36*
+X0Y10000000D2*
+X10000000D1*
+Y0D1*
+X0D1*
+Y10000000D1*
+G37*
+M02*
